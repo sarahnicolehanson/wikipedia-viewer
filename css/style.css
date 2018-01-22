@@ -1,0 +1,37 @@
+
+.block {
+  background-color:black;
+  opacity: .75;
+  color:white;
+  padding: 50px;
+  width: 50%;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:15px;
+  font-size:1.5em;
+  padding-bottom:2%;
+}
+.spacer {
+  padding:2%;
+}
+body {
+  background:no-repeat center fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background:url('https://cdn-images-1.medium.com/max/1600/1*KuZ_U9Yr4KuOuKNZSJysXQ.jpeg') 
+}
+
+.nav-pills {
+  font-family:Lobster;
+  font-size: 2.0em;
+  background-color:white;
+  width:100%;
+}
+
+
+
+  
+
+
